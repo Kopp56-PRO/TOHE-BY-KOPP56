@@ -7,7 +7,6 @@
 2. Localize a pasta do Among Us que fica em:
 
 Steam: C:\Program Files (x86)\Steam\steamapps\common\Among Us
-
 Epic Games: C:\Program Files\Epic Games\Among Us
 
 3. Copie os arquivos do TOHE BY KOPP56 para a pasta do Among Us
