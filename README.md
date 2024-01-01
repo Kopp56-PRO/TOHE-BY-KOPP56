@@ -1,4 +1,4 @@
-# ESSE MOD FOI DESCONTINUADO, POIS PERDEMOS FUNCIONARIOS, MAS UM NOVO MOD ESTÁ SENDO CRIADO
+# TOHE by Kopp56 foi descontinuado. Não vai ter atualizações futuras, a menos que alguem copie o repositório e continue desenvolvendo o mod
 
 # COMO INSTALAR:
 
