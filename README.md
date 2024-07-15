@@ -1,2 +1,3 @@
-# TOHE by Kopp56 foi descontinuado. Não vai ter atualizações futuras, a menos que alguem copie o repositório e continue desenvolvendo o mod
-Este mod foi descontinuado. Ja que não teve muito publico usando este mod. Outros projetos podem ser criados, [Saiba mais](https://guilded.gg/Techmachines)
+# Como hostear sala com mod EHR no mobile
+Repositório antes conhecido como: TOHE By Kopp56
+Entre neste [link](https://guilded.gg/Techmachines) e siga as instruções!!
